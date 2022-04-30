@@ -1,0 +1,1 @@
+const t={key:"v-3605dc1d",path:"/leadership/motto.html",title:"\u6709\u7528\u7684\u53E5\u5B50",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651328859e3,contributors:[{name:"Denis Qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"leadership/motto.md"};export{t as data};

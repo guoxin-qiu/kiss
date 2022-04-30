@@ -1,0 +1,1 @@
+const t={key:"v-1caa8c67",path:"/technology/github-star.html",title:"GitHub Stars",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/github-star.md"};export{t as data};

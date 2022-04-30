@@ -1,0 +1,1 @@
+const t={key:"v-7b9dc192",path:"/devops/user-story/urls.html",title:"URLs",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"devops/user-story/urls.md"};export{t as data};

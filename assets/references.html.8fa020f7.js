@@ -1,0 +1,1 @@
+const e={key:"v-5eb23ee3",path:"/devops/scrum/references.html",title:"References",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"devops/scrum/references.md"};export{e as data};

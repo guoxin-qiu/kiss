@@ -1,0 +1,1 @@
+const t={key:"v-4d5b9108",path:"/technology/gitbook.html",title:"GitBook",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5B89\u88C5",slug:"\u5B89\u88C5",children:[]}],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/gitbook.md"};export{t as data};

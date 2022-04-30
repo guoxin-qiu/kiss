@@ -1,0 +1,10 @@
+{
+  "name": "KISS",
+  "short_name": "KISS",
+  "description": "Knowledge Internal Sharing Station",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c",
+  "icons": []
+}

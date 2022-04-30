@@ -1,0 +1,1 @@
+const e={key:"v-2b53ddd3",path:"/technology/testing.html",title:"Testing",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[{level:2,title:"Puppeteer",slug:"puppeteer",children:[]}],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/testing.md"};export{e as data};

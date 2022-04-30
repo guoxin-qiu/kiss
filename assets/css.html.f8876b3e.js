@@ -1,0 +1,14 @@
+import{_ as t,r as c,o,a as r,b as s,d as a,F as l,e as n,c as p}from"./app.811c4100.js";const i={},d=s("h1",{id:"css",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#css","aria-hidden":"true"},"#"),n(" CSS")],-1),u=s("h2",{id:"bem-standard",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#bem-standard","aria-hidden":"true"},"#"),n(" BEM Standard")],-1),b=n("\u53C2\u8003"),m={href:"https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/",target:"_blank",rel:"noopener noreferrer"},_=n("BEM Standard"),k=n("\u548C"),h={href:"https://css-tricks.com/bem-101/",target:"_blank",rel:"noopener noreferrer"},f=n("CSS Tricks BEM"),g=n("\uFF0C \u89C4\u8303\u793A\u4F8B\u5982\u4E0B"),x=p(`<div class="language-css ext-css line-numbers-mode"><pre class="language-css"><code><span class="token selector">.block</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span>
+<span class="token selector">.block__element</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span>
+<span class="token selector">.block--modifier</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span>
+<span class="token comment">/*-------*/</span>
+<span class="token selector">.site-search</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span> <span class="token comment">/* Block */</span>
+<span class="token selector">.site-search__field</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span> <span class="token comment">/* Element */</span>
+<span class="token selector">.site-search--full</span> <span class="token punctuation">{</span>
+<span class="token punctuation">}</span> <span class="token comment">/* Modifier */</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><ul><li><code>.block</code> represents the higher level of an abstraction or component.</li><li><code>.block__element</code> represents a descendent of .block that helps form .block as a whole.</li><li><code>.block--modifier</code> represents a different state or version of .block.</li></ul>`,2);function v(B,E){const e=c("ExternalLinkIcon");return o(),r(l,null,[d,u,s("p",null,[b,s("a",m,[_,a(e)]),k,s("a",h,[f,a(e)]),g]),x],64)}var M=t(i,[["render",v],["__file","css.html.vue"]]);export{M as default};

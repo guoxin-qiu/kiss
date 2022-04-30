@@ -1,0 +1,1 @@
+const t={key:"v-5061d238",path:"/technology/frontend/redux.html",title:"Redux",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/frontend/redux.md"};export{t as data};
