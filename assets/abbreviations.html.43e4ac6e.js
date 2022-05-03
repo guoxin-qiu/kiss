@@ -1,1 +1,0 @@
-const e={key:"v-4990892f",path:"/devops/agile-practice-guide/abbreviations.html",title:"\u7F29\u5199",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"devops/agile-practice-guide/abbreviations.md"};export{e as data};

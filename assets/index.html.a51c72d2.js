@@ -1,0 +1,1 @@
+const e={key:"v-1d01909d",path:"/devops/agile-guide/",title:"\u654F\u6377\u5B9E\u8DF5\u6307\u5357",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651479207e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"devops/agile-guide/index.md"};export{e as data};
