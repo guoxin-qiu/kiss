@@ -1,0 +1,1 @@
+const e={key:"v-6420e51e",path:"/leadership/",title:"Memories of Leadership",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651754263e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"leadership/README.md"};export{e as data};

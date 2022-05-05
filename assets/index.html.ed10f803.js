@@ -1,1 +1,0 @@
-const e={key:"v-9130e4d4",path:"/business/",title:"Business",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"business/README.md"};export{e as data};
