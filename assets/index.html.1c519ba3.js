@@ -1,1 +1,0 @@
-import{_ as e,o,a as s,b as t,e as a}from"./app.90a21e26.js";const r={},_={id:"memories-of-devops",tabindex:"-1"},c=t("a",{class:"header-anchor",href:"#memories-of-devops","aria-hidden":"true"},"#",-1),d=a(" Memories of DevOps"),n=[c,d];function i(h,f){return o(),s("h1",_,n)}var l=e(r,[["render",i],["__file","index.html.vue"]]);export{l as default};

@@ -1,0 +1,18 @@
+import{_ as s,r,o as i,a as c,b as n,d as t,F as o,e,c as l}from"./app.0b00aae6.js";const d={},p=n("h1",{id:"\u4F7F\u7528-nginx-\u90E8\u7F72-web-\u9879\u76EE",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#\u4F7F\u7528-nginx-\u90E8\u7F72-web-\u9879\u76EE","aria-hidden":"true"},"#"),e(" \u4F7F\u7528 nginx \u90E8\u7F72 Web \u9879\u76EE")],-1),h=n("h2",{id:"\u4E0B\u8F7D-nginx",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#\u4E0B\u8F7D-nginx","aria-hidden":"true"},"#"),e(" \u4E0B\u8F7D nginx")],-1),b=e("\u4ECE"),u={href:"http://nginx.org/",target:"_blank",rel:"noopener noreferrer"},m=e("nginx \u5B98\u7F51"),x=e("\u4E0B\u8F7D"),g=l(`<h2 id="\u4FEE\u6539\u7AEF\u53E3" tabindex="-1"><a class="header-anchor" href="#\u4FEE\u6539\u7AEF\u53E3" aria-hidden="true">#</a> \u4FEE\u6539\u7AEF\u53E3</h2><p>\u627E\u5230 nginx \u6839\u76EE\u5F55\u4E0B\u7684\u914D\u7F6E\u6587\u4EF6 <code>conf\\nginx.conf</code>,</p><div class="language-conf ext-conf line-numbers-mode"><pre class="language-conf"><code>http {
+  #...
+  server {
+    listen       8888;
+    server_name  localhost;
+  }
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><h2 id="\u90E8\u7F72" tabindex="-1"><a class="header-anchor" href="#\u90E8\u7F72" aria-hidden="true">#</a> \u90E8\u7F72</h2><h3 id="\u76F4\u63A5\u90E8\u7F72" tabindex="-1"><a class="header-anchor" href="#\u76F4\u63A5\u90E8\u7F72" aria-hidden="true">#</a> \u76F4\u63A5\u90E8\u7F72</h3><p>\u62F7\u8D1D\u6253\u5305\u6587\u4EF6\u5230 nginx \u6839\u76EE\u5F55 html \u76EE\u5F55\u4E2D\u5373\u53EF\uFF08\u8FD9\u79CD\u65B9\u5F0F\u4E0D\u7528\u542F\u52A8 nginx \u670D\u52A1\uFF09</p><h3 id="\u914D\u7F6E\u8DEF\u5F84" tabindex="-1"><a class="header-anchor" href="#\u914D\u7F6E\u8DEF\u5F84" aria-hidden="true">#</a> \u914D\u7F6E\u8DEF\u5F84</h3><p>\u5728 nginx \u6839\u76EE\u5F55\u521B\u5EFA websites \u6587\u4EF6\u5939\uFF0C \u62F7\u5165\u6253\u5305\u597D\u7684 dist \u6587\u4EF6\u5939\uFF08\u547D\u540D\u4E3A\u9879\u76EE\u540D\uFF09\u3002 \u4FEE\u6539\u914D\u7F6E\u6587\u4EF6<code>conf\\nginx.conf</code></p><div class="language-conf ext-conf line-numbers-mode"><pre class="language-conf"><code>http {
+  #...
+  server {
+    #...
+    location / {
+      root  websites/kiss/dist;
+      index  index.html index.htm;
+    }
+  }
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><p>\u53CC\u51FB\u6839\u76EE\u5F55\u7684<code>nginx.exe</code>\uFF0C\u542F\u52A8\u670D\u52A1\uFF0C\u5982\u679C\u670D\u52A1\u5DF2\u542F\u52A8\uFF0C\u4F7F\u7528\u6839\u76EE\u5F55\u4E2D\u7684\u547D\u4EE4\u884C<code>nginx.exe -s quit</code>\u7ED3\u675F\u8FDB\u7A0B\uFF0C\u6216\u8005\u5728\u4EFB\u52A1\u7BA1\u7406\u5668\u624B\u52A8\u7ED3\u675F\u3002</p><div class="custom-container warning"><p class="custom-container-title">\u6CE8\u610F</p><p>TODO\uFF1A\u6CA1\u6709\u6210\u529F\uFF0C\u5F85\u8865\u5145\u3002\u3002</p></div>`,11);function _(f,v){const a=r("ExternalLinkIcon");return i(),c(o,null,[p,h,n("p",null,[b,n("a",u,[m,t(a)]),x]),g],64)}var w=s(d,[["render",_],["__file","nginx.html.vue"]]);export{w as default};
