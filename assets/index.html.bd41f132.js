@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as r,b as o,d as c}from"./app.f21a7cce.js";const a={},s={id:"memories-of-architecture",tabindex:"-1"},i=o("a",{class:"header-anchor",href:"#memories-of-architecture","aria-hidden":"true"},"#",-1),_=c(" Memories of Architecture"),n=[i,_];function d(h,f){return t(),r("h1",s,n)}var l=e(a,[["render",d],["__file","index.html.vue"]]);export{l as default};

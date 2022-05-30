@@ -1,0 +1,1 @@
+const t={key:"v-2d0a3686",path:"/QA/",title:"Memories of Quality Assurance",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"QA/README.md"};export{t as data};

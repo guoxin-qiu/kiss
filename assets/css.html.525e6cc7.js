@@ -1,0 +1,1 @@
+const t={key:"v-b37d638c",path:"/frontend/css.html",title:"CSS",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[{level:2,title:"BEM Standard",slug:"bem-standard",children:[]}],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"frontend/css.md"};export{t as data};

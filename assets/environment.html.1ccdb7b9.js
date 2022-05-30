@@ -1,1 +1,0 @@
-const e={key:"v-4ce98f8e",path:"/technology/frontend/environment.html",title:"\u5305\u73AF\u5883",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/frontend/environment.md"};export{e as data};

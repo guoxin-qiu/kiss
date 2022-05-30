@@ -1,1 +1,0 @@
-import{_ as e,o,a as t,b as s,e as a}from"./app.0b00aae6.js";const c={},r={id:"memories-of-technology",tabindex:"-1"},n=s("a",{class:"header-anchor",href:"#memories-of-technology","aria-hidden":"true"},"#",-1),_=a(" Memories of Technology"),i=[n,_];function d(h,f){return o(),t("h1",r,i)}var m=e(c,[["render",d],["__file","index.html.vue"]]);export{m as default};

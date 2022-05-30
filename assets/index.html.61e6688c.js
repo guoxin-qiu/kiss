@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as t,b as o,d as s}from"./app.f21a7cce.js";const r={},i={id:"memories-of-big-data",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#memories-of-big-data","aria-hidden":"true"},"#",-1),c=s(" Memories of Big Data"),d=[_,c];function n(h,f){return a(),t("h1",i,d)}var l=e(r,[["render",n],["__file","index.html.vue"]]);export{l as default};

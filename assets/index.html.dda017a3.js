@@ -1,0 +1,1 @@
+import{_ as e,o,a as s,b as t,d as a}from"./app.f21a7cce.js";const r={},n={id:"memories-of-english",tabindex:"-1"},i=t("a",{class:"header-anchor",href:"#memories-of-english","aria-hidden":"true"},"#",-1),_=a(" Memories of English"),c=[i,_];function d(h,f){return o(),s("h1",n,c)}var m=e(r,[["render",d],["__file","index.html.vue"]]);export{m as default};

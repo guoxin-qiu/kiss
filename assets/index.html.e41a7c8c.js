@@ -1,0 +1,1 @@
+import{_ as e,o,a as s,b as a,d as r}from"./app.f21a7cce.js";const t={},d={id:"memories-of-leadership",tabindex:"-1"},i=a("a",{class:"header-anchor",href:"#memories-of-leadership","aria-hidden":"true"},"#",-1),_=r(" Memories of Leadership"),c=[i,_];function n(h,f){return o(),s("h1",d,c)}var l=e(t,[["render",n],["__file","index.html.vue"]]);export{l as default};

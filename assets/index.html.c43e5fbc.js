@@ -1,0 +1,1 @@
+const t={key:"v-11c5a842",path:"/big-data/",title:"Memories of Big Data",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"big-data/README.md"};export{t as data};

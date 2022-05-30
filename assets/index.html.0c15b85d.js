@@ -1,0 +1,1 @@
+const e={key:"v-63e82ae3",path:"/architecture/",title:"Memories of Architecture",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"architecture/README.md"};export{e as data};

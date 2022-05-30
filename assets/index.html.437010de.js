@@ -1,0 +1,1 @@
+import{_ as e,o,a as s,b as t,d as a}from"./app.f21a7cce.js";const r={},_={id:"memories-of-tools",tabindex:"-1"},c=t("a",{class:"header-anchor",href:"#memories-of-tools","aria-hidden":"true"},"#",-1),n=a(" Memories of Tools"),d=[c,n];function i(h,f){return o(),s("h1",_,d)}var m=e(r,[["render",i],["__file","index.html.vue"]]);export{m as default};

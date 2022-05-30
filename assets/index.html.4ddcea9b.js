@@ -1,0 +1,1 @@
+import{_ as e,o,a as t,b as r,d as n}from"./app.f21a7cce.js";const s={},a={id:"memories-of-frontend",tabindex:"-1"},d=r("a",{class:"header-anchor",href:"#memories-of-frontend","aria-hidden":"true"},"#",-1),_=n(" Memories of Frontend"),c=[d,_];function i(f,h){return o(),t("h1",a,c)}var l=e(s,[["render",i],["__file","index.html.vue"]]);export{l as default};

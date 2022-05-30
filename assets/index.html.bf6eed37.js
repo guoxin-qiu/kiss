@@ -1,0 +1,1 @@
+const o={key:"v-d440f426",path:"/tools/",title:"Memories of Tools",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"tools/README.md"};export{o as data};

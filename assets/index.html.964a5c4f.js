@@ -1,1 +1,0 @@
-import{_ as e,o as s,a as o,b as t,e as a}from"./app.0b00aae6.js";const r={},n={id:"memories-of-business",tabindex:"-1"},i=t("a",{class:"header-anchor",href:"#memories-of-business","aria-hidden":"true"},"#",-1),_=a(" Memories of Business"),c=[i,_];function d(h,f){return s(),o("h1",n,c)}var l=e(r,[["render",d],["__file","index.html.vue"]]);export{l as default};

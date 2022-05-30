@@ -1,1 +1,0 @@
-const t={key:"v-89934afe",path:"/technology/architecture/EA-5W1H.html",title:"Enterprise Architecture",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651105335e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/architecture/EA-5W1H.md"};export{t as data};

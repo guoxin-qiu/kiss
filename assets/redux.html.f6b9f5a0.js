@@ -1,0 +1,1 @@
+const e={key:"v-065ff22e",path:"/frontend/redux.html",title:"Redux",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"frontend/redux.md"};export{e as data};

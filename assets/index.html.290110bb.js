@@ -1,0 +1,1 @@
+const t={key:"v-06198984",path:"/frontend/",title:"Memories of Frontend",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"frontend/README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-30828784",path:"/big-data/talend.html",title:"Talend",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653878999e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"big-data/talend.md"};export{t as data};

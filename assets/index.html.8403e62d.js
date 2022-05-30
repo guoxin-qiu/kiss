@@ -1,1 +1,0 @@
-const e={key:"v-13bcc40a",path:"/technology/",title:"Memories of Technology",lang:"zh-cn",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651754263e3,contributors:[{name:"guoxin-qiu",email:"guoxin.qiu@outlook.com",commits:1}]},filePathRelative:"technology/README.md"};export{e as data};
