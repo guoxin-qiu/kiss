@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bdb5b164","path":"/3.procedural/31.english/email.html","title":"English Email","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"工作邮件中常用英文 100 句","slug":"工作邮件中常用英文-100-句","link":"#工作邮件中常用英文-100-句","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/31.english/email.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-488f746c","path":"/4.metacognitive/31.management/TL%E7%9A%84%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A.html","title":"TL 的有效沟通","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"4.metacognitive/31.management/TL的有效沟通.md"}');export{t as data};

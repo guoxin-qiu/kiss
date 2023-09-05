@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-cd7fa196","path":"/4.metacognitive/31.management/TL%E8%A7%92%E8%89%B2%E8%AE%A4%E7%9F%A5.html","title":"TL 角色认知","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"4.metacognitive/31.management/TL角色认知.md"}');export{t as data};
