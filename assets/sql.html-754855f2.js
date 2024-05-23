@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-480bab72","path":"/3.procedural/12.tech-tricks/sql.html","title":"SQL 相关","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"性能优化相关","slug":"性能优化相关","link":"#性能优化相关","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/12.tech-tricks/sql.md"}');export{t as data};

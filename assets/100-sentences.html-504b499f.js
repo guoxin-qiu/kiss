@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c883380","path":"/5.resources/english/100-sentences.html","title":"100 句","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1695180946000,"contributors":[{"name":"guoxin-qiu","email":"guoxin.qiu@outlook.com","commits":1}]},"filePathRelative":"5.resources/english/100-sentences.md"}');export{e as data};

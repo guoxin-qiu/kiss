@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-77eadcf7","path":"/3.procedural/12.tech-tricks/database.html","title":"数据库相关","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"SQL Server","slug":"sql-server","link":"#sql-server","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/12.tech-tricks/database.md"}');export{e as data};
